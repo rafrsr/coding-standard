@@ -1,0 +1,9 @@
+### JetBrains
+## Directory-based project format:
+.idea/
+
+### Composer
+vendor/
+bin/
+composer.lock
+

@@ -1,0 +1,16 @@
+{
+  "name": "toplib/coding-standard",
+  "description": "TopLib PHP CodeSniffer Coding Standard",
+  "license": "Apache-2.0",
+  "homepage": "http://toplib.github.io/coding-standard/",
+  "authors": [
+    {
+      "name": "Rafael SR",
+      "email": "raf.rsr@gmail.com",
+      "homepage": "https://github.com/rafrsr"
+    }
+  ],
+  "require": {
+    "squizlabs/php_codesniffer": "^2.0"
+  }
+}
