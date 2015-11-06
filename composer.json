@@ -1,7 +1,7 @@
 {
   "name": "toplib/coding-standard",
   "description": "TopLib PHP CodeSniffer Coding Standard",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "homepage": "http://toplib.github.io/coding-standard/",
   "authors": [
     {
